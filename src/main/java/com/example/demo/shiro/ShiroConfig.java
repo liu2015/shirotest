@@ -50,6 +50,7 @@ public class ShiroConfig {
         shiroFilterFactoryBean.setFilterChainDefinitionMap(fMap);
         return shiroFilterFactoryBean;
 
+
     }
     @Bean(name="defaultWebSecurityManager")
     //创建DefaultWebSecurityManager
