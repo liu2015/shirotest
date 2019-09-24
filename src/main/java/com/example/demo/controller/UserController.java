@@ -56,7 +56,7 @@ public class UserController {
             System.out.println( "成功" );
             model.addAttribute( "msg","你成功登陆" );
 //            return "redirect:/what.do";
-            return "redirect:/what";
+            return "redirect:/two";
         } catch (UnknownAccountException e) {
             //用户名不存在
             model.addAttribute("msg","用户名不存在");

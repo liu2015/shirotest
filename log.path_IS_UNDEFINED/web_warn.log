@@ -414,3 +414,5 @@ java.lang.NullPointerException: null
 2019-09-24 16:30:38.562 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo]' package. Please check your configuration.
 2019-09-24 16:31:55.686 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'usershiroMapper' and 'com.example.demo.mapper.UsershiroMapper' mapperInterface. Bean already defined with the same name!
 2019-09-24 16:31:55.686 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo]' package. Please check your configuration.
+2019-09-24 16:40:14.079 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'usershiroMapper' and 'com.example.demo.mapper.UsershiroMapper' mapperInterface. Bean already defined with the same name!
+2019-09-24 16:40:14.080 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.demo]' package. Please check your configuration.
